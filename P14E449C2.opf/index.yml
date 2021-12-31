@@ -1,0 +1,11 @@
+id: b49527ea3a494381b86656ffdbfe268c
+annotation_type: index
+revision: '00001'
+annotations:
+  6d686a655dc34410a5dcf206ea0fac00:
+    parts: {}
+    span:
+    - vol: 13
+      start: 0
+      end: 37341
+    work_id: D1612
